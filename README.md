@@ -1,4 +1,5 @@
 To run in VS code: 
+    
     STEP 1 : git clone https://github.com/sasikumar090103/Eye-Tracking.git
 
     STEP 2 : OPEN FILE LOCATION and Create virtual python evnironment (Optional)
@@ -9,3 +10,6 @@ To run in VS code:
     STEP 3 : pip install -r "requirements.txt"        #"Give the location of requirements.txt on your local storage"
 
     STEP 4 : pthon test.py
+
+Implemented using OPEN CV, MEDIAPIPE, NUMPY libraries.
+This Code Gets the video input from the user and Displays the eye movements and also mentions whether the person is looking inside the screen or not.
